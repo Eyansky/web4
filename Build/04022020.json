@@ -1,0 +1,16 @@
+{
+"companyName": "Tunu",
+"productName": "Tunu",
+"productVersion": "0.2",
+"dataUrl": "04022020.data.unityweb",
+"wasmCodeUrl": "04022020.wasm.code.unityweb",
+"wasmFrameworkUrl": "04022020.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
